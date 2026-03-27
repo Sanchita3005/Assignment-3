@@ -1,3 +1,6 @@
+
+Question 1:
+
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 c = int(input("Enter third number: "))
@@ -21,7 +24,7 @@ Greatest number is: 9
 
 
 
-
+Question 2:
 
 num = int(input("Enter a number: "))
 
@@ -39,7 +42,8 @@ Enter a number: 4
 Even number
 
 
-
+ 
+Question 3:
 
 ch = input("Enter a character: ")
 
@@ -60,6 +64,8 @@ Uppercase letter
 
 
 
+
+Question 4
 
 x = input("Enter something: ")
 
